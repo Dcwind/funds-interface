@@ -1,0 +1,39 @@
+/* Add here all your css styles (customizations) */
+/*.list-row {
+    text-align: left;
+} */
+
+.block-grid-v1:hover {
+    border-color: #3498db;
+}
+
+.block-grid-v1.content-boxes-v2 h3 a {
+    color: #555;
+}
+
+.block-grid-v1.content-boxes-v2 h3 a:hover {
+    color: #3498db;
+}
+
+.block-grid-v1 {
+    background: #f2f2f2;
+    padding: 15px 15px 5px;
+    border-bottom: solid 2px #eee;
+    transition: all 0.4s ease-in-out;
+}
+
+.block-grid-v1.content-boxes-v3 .table {
+    color: #555;
+    padding: 15px 15px 5px;
+    text-align: left;
+}
+
+
+
+.td-right{
+    text-align: right;
+}
+
+.td-left{
+    text-align: left;
+}
