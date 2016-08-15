@@ -65,5 +65,6 @@ include('header.php');
 
 <?php
 include('footer.php');
+// began using laravel which does a much better work with it's blade templating engine 
 ?>
 //interface design
