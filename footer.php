@@ -15,6 +15,7 @@
 <script type="text/javascript" src="assets/js/custom.js"></script>
 <!-- JS Page Level -->
 <script type="text/javascript" src="assets/js/app.js"></script>
+<script type="text/javascript" src="assets/js/class.js"></script>
 <script type="text/javascript" src="assets/js/plugins/style-switcher.js"></script>
 <script type="text/javascript">
     jQuery(document).ready(function() {
