@@ -38,6 +38,8 @@
     <!-- CSS Theme -->
     <link rel="stylesheet" href="assets/css/theme-colors/default.css" id="style_color">
     <link rel="stylesheet" href="assets/css/theme-skins/dark.css">
+    
+    <script></script>
 
     <!-- CSS Customization -->
     <link rel="stylesheet" href="assets/css/custom.css">
